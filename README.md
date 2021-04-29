@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @WDanialY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-WDanialY/WDanialY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello everyone!
+My name is Danial and I really love programming. 
+I'm currently learning front-end development and it's sooo exciting!
+I began learning it not long ago, therefore I don't have a lot of experience.
+Now I spend most of my after school time learning front-end.
+Currently I don't have any options for you to reach me, because I don't really use social networks (They take away so much time!).
